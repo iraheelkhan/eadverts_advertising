@@ -101,8 +101,6 @@
     * The key parameter will contain your own API key (which is not needed for this tutorial)
     * The callback parameter executes the initMap() function
     -->
-   <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBiv3Cw7Nu9qPxyeeE10DVmswE6g0vOj54&callback=initMap">
-    </script>
+<!--    google api goes here -->
   </body>
 </html>
